@@ -1,7 +1,7 @@
 ## Hi there 
 ### Olá! Eu sou o Fabrício Rodrigues 
 
-Sou estudante do Ensino Médio Técnico em *Desenvolvimento de Sistemas, apaixonado por tecnologia, resolução de problemas e pelo universo da Inteligência Artificial. 
+Sou estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia, resolução de problemas e pelo universo da Inteligência Artificial. 
 
 Atualmente, estou focado em construir uma base sólida em programação e busco a minha primeira oportunidade de estágio na área de TI para aplicar meus conhecimentos na prática e evoluir profissionalmente.
 
