@@ -1,5 +1,5 @@
 ## Hi there 
-### Olá! Me chamo Fabrício Rodrigues 
+### Olá! My name is Fabrício Rodrigues 
 
 Sou estudante do Ensino Médio Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia, resolução de problemas e pelo universo da Inteligência Artificial. 
 
