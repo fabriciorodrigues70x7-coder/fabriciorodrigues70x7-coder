@@ -1,19 +1,19 @@
-## Hi there 👋
-### Olá! Eu sou o Fabrício Rodrigues 👋
+## Hi there 
+### Olá! Eu sou o Fabrício Rodrigues 
 
-Sou estudante do Ensino Médio Técnico em *Desenvolvimento de Sistemas, apaixonado por tecnologia, resolução de problemas e pelo universo da **Inteligência Artificial*. 
+Sou estudante do Ensino Médio Técnico em *Desenvolvimento de Sistemas, apaixonado por tecnologia, resolução de problemas e pelo universo da Inteligência Artificial. 
 
-Atualmente, estou focado em construir uma base sólida em programação e busco a minha *primeira oportunidade de estágio* na área de TI para aplicar meus conhecimentos na prática e evoluir profissionalmente.
+Atualmente, estou focado em construir uma base sólida em programação e busco a minha primeira oportunidade de estágio na área de TI para aplicar meus conhecimentos na prática e evoluir profissionalmente.
 
-- 🎓 *Formação atual:* Ensino Médio Técnico em Desenvolvimento de Sistemas
-- 🌱 *Estudando no momento:* Lógica de Programação, Python e Inteligência Artificial
-- 💼 *Objetivo:* Em busca de estágio em Desenvolvimento / Tecnologia
-- 🏋️ *Fora do código:* Você provavelmente vai me encontrar treinando na academia!
-- 📫 *Como falar comigo:* [fabriciorodrigues70x7@gmail.com](mailto:fabriciorodrigues70x7@gmail.com)
+- Formação atual: Ensino Médio Técnico em Desenvolvimento de Sistemas
+- Estudando no momento: Lógica de Programação, Python e Inteligência Artificial
+- Objetivo: Em busca de estágio em Desenvolvimento / Tecnologia
+- Fora do código: Você provavelmente vai me encontrar treinando na academia!
+- Como falar comigo: [fabriciorodrigues70x7@gmail.com](mailto:fabriciorodrigues70x7@gmail.com)
 
 ---
 
-#### 🛠️ Tecnologias e Conhecimentos
+ Tecnologias e Conhecimentos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabrício-Python" height="30" width="40" src="https://githubusercontent.com">
@@ -23,7 +23,7 @@ Atualmente, estou focado em construir uma base sólida em programação e busco 
 
 ---
 
-#### 📈 Estatísticas no GitHub
+ Estatísticas no GitHub
 
 ![GitHub Stats](https://vercel.app)
 <!--
